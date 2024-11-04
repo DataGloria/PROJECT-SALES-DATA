@@ -1,7 +1,22 @@
 # LITA-CAPSTONE-PROJECT-SALES-DATA-
 # Sales Performance Analysis for a Retail Store
 
-### Overview
+TABLE OF CONTENTS
+
+[Project Overview](#project-overview)
+
+[Project Summary](#project-summary)
+
+[Project Structure](#project-structure)
+
+[SQL Analysis](#sql-analysis)
+
+[Power BI Dashboard](#power-bi-dashboard)
+
+[Key Insights](#key-insights)
+
+
+### Project Overview
 This project involves analyzing the sales performance of a retail store to uncover valuable insights. The analysis spans three primary tools—Excel, SQL, and Power BI—and focuses on identifying trends in product sales, regional performance, and monthly sales, with the final output visualized in an interactive Power BI dashboard.
 
 ---
