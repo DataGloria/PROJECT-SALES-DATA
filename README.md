@@ -126,7 +126,7 @@ This project involves analyzing the sales performance of a retail store to uncov
        
      - **Regional Breakdown**: This visualizes the sales contribution by each region and top-performing regions. knowing this will help the client concetrate on regions that are high performing while taking steps to impreove on low performing regions. Steps could include research on reasons for low sales, improving and increasing product promotion or taking feedbacks from customers to improve on product design e.t.c.
 
-     - - **Dashboard Preview** 
+       ###Dashboard Preview
 
 (continuation) This dashboard also provides a comprehensive analysis of the dataset, including:
 
