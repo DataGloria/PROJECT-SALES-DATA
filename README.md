@@ -123,7 +123,8 @@ This project involves analyzing the sales performance of a retail store to uncov
      - **Top Products**: Highlights best-selling products by total revenue.
      - **Regional Breakdown**: Visualizes sales contribution by each region and top-performing regions.
      - 
-   - **Preview**:![Screenshot 2024-11-10 214042](https://github.com/user-attachments/assets/b2843af2-da6e-4928-838e-1913bc07e332)
+   - **Preview**:![Screenshot 2024-11-10 220427](https://github.com/user-attachments/assets/39a5636c-fa5b-4991-bbcf-bf74f26deaef)
+
 
 
 ---
