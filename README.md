@@ -126,15 +126,15 @@ This project involves analyzing the sales performance of a retail store to uncov
        
      - **Regional Breakdown**: This visualizes the sales contribution by each region and top-performing regions. knowing this will help the client concetrate on regions that are high performing while taking steps to impreove on low performing regions. Steps could include research on reasons for low sales, improving and increasing product promotion or taking feedbacks from customers to improve on product design e.t.c.
 
- - **Dashboard Preview**:
+   - **Dashboard Preview**:
       (continuation) This dashboard also provides a comprehensive analysis of the dataset, including:
 
-   - **Quantity Overview**: We provide a display of  total quantity by product and region, with a percentage breakdown of quantity by region to show the percentage contribution of each region to the ttal product
-   - **Customer Revenue**: this visualization Shows revenue per customer by region, highlighting top-performing regions and revenue distribution.
-   - **Monthly Revenue Trends**: We provide a visualizatio of the analysis of monthly revenue totals, identifying highest and lowest performing months with icons representing the highest performing months where the company realised a total sales of over $100,000, Mid revenue greater than $50,000 but less than $100,000 nand low performing months where the company realised less than $50,000
-   - **Regional Customer Distribution**: Presents customer count by region, offering insights into regional engagement.
+      - **Quantity Overview**: We provide a display of  total quantity by product and region, with a percentage breakdown of quantity by region to show the percentage contribution of each region to the ttal product
+      - **Customer Revenue**: this visualization Shows revenue per customer by region, highlighting top-performing regions and revenue distribution.
+      - **Monthly Revenue Trends**: We provide a visualizatio of the analysis of monthly revenue totals, identifying highest and lowest performing months with icons representing the highest performing months where the company realised a total sales of over $100,000, Mid revenue greater than $50,000 but less than $100,000 nand low performing months where the company realised less than $50,000
+      - **Regional Customer Distribution**: Presents customer count by region, offering insights into regional engagement.
 
- - **Features**:
+    - **Features**:
    
       - **Region-Based Slicers**: Users can filter data by region for a more tailored view.
 
