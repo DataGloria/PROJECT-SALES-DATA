@@ -31,14 +31,14 @@ This project involves analyzing the sales performance of a retail store to uncov
 
 ## Project Structure
 
-1. **Excel Analysis**: [Download Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=sharing)
+1. **Excel Analysis**: 
    - **Initial Exploration**: Explored sales data using pivot tables for summarizing total sales by product, region, and month.
    - **Metric Calculations**:
      - Calculated average sales per product and total revenue by region.
      - Additional report generated for overall performance by different criteria (e.g., product and month).
      
 
-2. **SQL Analysis**:
+2. **SQL Analysis**: [Download Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=sharing)
    - **Dataset Loading**: Loaded the dataset into SQL Server for deeper analysis.
    - **Key Queries**:
      - **Total Sales by Product Category**:
