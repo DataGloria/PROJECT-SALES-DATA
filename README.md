@@ -33,7 +33,7 @@ This project involves analyzing the sales performance of a retail store to uncov
 
 ## Project Structure
 
-1. ## Excel Analysis: [View Here](https://docs.google.com/spreadsheets/d/1yjZ7dtWELhHT4SZxeZ3UnsTnEFzvt6F2/edit?usp=sharing&ouid=101772182884448801883&rtpof=true&sd=true)
+1. **Excel Analysis**: [View Here](https://docs.google.com/spreadsheets/d/1yjZ7dtWELhHT4SZxeZ3UnsTnEFzvt6F2/edit?usp=sharing&ouid=101772182884448801883&rtpof=true&sd=true)
    - **Initial Exploration**: Explored sales data using pivot tables for summarizing;
       - total sales by product,
       - total sales by region,
