@@ -9,6 +9,8 @@ TABLE OF CONTENTS
 
 [Project Structure](#project-structure)
 
+[Excel Analysis](#excel-analysis)
+
 [SQL Analysis](#sql-analysis)
 
 [Power BI Dashboard](#power-bi-dashboard)
@@ -25,21 +27,28 @@ This project involves analyzing the sales performance of a retail store to uncov
 
 - **Objective**: To analyze sales data for a retail store, identify top-selling products, examine regional and monthly trends, and provide actionable insights.
 - **Tools Used**: Microsoft Excel, SQL Server, Power BI
-- **Outcome**: An interactive Power BI dashboard that visualizes the sales trends, top products, and regional performance.
+- **Outcome**: An interactive Power BI dashboard that visualizes the sales overview, trends, top products, and regional performance.
 
 ---
 
 ## Project Structure
 
-1. **Excel Analysis**: 
-   - **Initial Exploration**: Explored sales data using pivot tables for summarizing total sales by product, region, and month.
+1. **Excel Analysis**: [View Here](https://docs.google.com/spreadsheets/d/1yjZ7dtWELhHT4SZxeZ3UnsTnEFzvt6F2/edit?usp=sharing&ouid=101772182884448801883&rtpof=true&sd=true)
+   - **Initial Exploration**: Explored sales data using pivot tables for summarizing;
+      - total sales by product,
+      - total sales by region,
+      - Total sales per month
+      - Sum of revenue per product
+      - Average Unit price of each product
+      - Sum of revenue per product over the years analyzed, and
+      - Product trends over the years (Quantity sold). This includes a slicer to gain better understanding per product
    - **Metric Calculations**:
      - Calculated average sales per product and total revenue by region.
-     - Additional report generated for overall performance by different criteria (e.g., product and month).
-     
+     - Total revenue per region
+       
 
-2. **SQL Analysis**: [Download Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=sharing)
-   - **Dataset Loading**: Loaded the dataset into SQL Server for deeper analysis.
+2. **SQL Analysis**: [View Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=sharing)
+   - **Dataset Loading**: Loaded the dataset into SQL Server for deeper analysis anad cleaned the data
    - **Key Queries**:
      - **Total Sales by Product Category**:
        ```sql
@@ -116,9 +125,11 @@ This project involves analyzing the sales performance of a retail store to uncov
        ```
    
 
-3. **Power BI Dashboard**:
+3. **Power BI Dashboard**:[View Here](https://drive.google.com/file/d/1Ja7vrT2m-xvI-uMTwzHCdA65wqOHLY0s/view?usp=sharing)
    - **Overview**: I Created an interactive dashboard summarizing key insights which is guaranteed to help the company see patterns and trends that will improve key decision making and overall, help the business identify areas, products to improve on, incease marketability or highlight.
-     
+      - transaformed the data by chnaging the data types as related to the values or texts in the columns
+      - Performed a data audit to check if the data quality was topnotch
+      - created measures and calculated colums to visualized average quantiy, average unit price and count of customers
    - **Visualizations**:
      - **Sales Overview**: Displays total sales, average quantity sold, and the total sales made ( total time customers ordered from us)
        
