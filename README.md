@@ -117,13 +117,31 @@ This project involves analyzing the sales performance of a retail store to uncov
    
 
 3. **Power BI Dashboard**:
-   - **Overview**: Created an interactive dashboard summarizing key insights.
+   - **Overview**: I Created an interactive dashboard summarizing key insights which is guaranteed to help the company see patterns and trends that will improve key decision making and overall, help the business identify areas, products to improve on, incease marketability or highlight.
+     
    - **Visualizations**:
-     - **Sales Overview**: Displays total sales, average sales, and monthly trend analysis.
-     - **Top Products**: Highlights best-selling products by total revenue.
-     - **Regional Breakdown**: Visualizes sales contribution by each region and top-performing regions.
+     - **Sales Overview**: Displays total sales, average quantity sold, and the total sales made ( total time customers ordered from us)
+       
+     - **Top Products**: this highlights the best-selling products by total revenue which was repreaented by a column chart
+       
+     - **Regional Breakdown**: This visualizes the sales contribution by each region and top-performing regions. knowing this will help the client concetrate on regions that are high performing while taking steps to impreove on low performing regions. Steps could include research on reasons for low sales, improving and increasing product promotion or taking feedbacks from customers to improve on product design e.t.c.
+
+     - - **Dashboard Preview** 
+
+(continuation) This dashboard also provides a comprehensive analysis of the dataset, including:
+
+- **Quantity Overview**: We provide a display of  total quantity by product and region, with a percentage breakdown of quantity by region to show the percentage contribution of each region to the ttal product
+- **Customer Revenue**: this visualization Shows revenue per customer by region, highlighting top-performing regions and revenue distribution.
+- **Monthly Revenue Trends**: We provide a visualizatio of the analysis of monthly revenue totals, identifying highest and lowest performing months with icons representing the highest performing months where the company realised a total sales of over $100,000, Mid revenue greater than $50,000 but less than $100,000 nand low performing months where the company realised less than $50,000
+- **Regional Customer Distribution**: Presents customer count by region, offering insights into regional engagement.
+
+### Features
+- **Region-Based Slicers**: Users can filter data by region for a more tailored view.
+
+This dashboard enables users to gain a clear understanding of product and customer performance across various regions and time periods.
+
      - 
-   - **Preview**:![Screenshot 2024-11-10 220427](https://github.com/user-attachments/assets/39a5636c-fa5b-4991-bbcf-bf74f26deaef)
+   :![Screenshot 2024-11-10 220427](https://github.com/user-attachments/assets/39a5636c-fa5b-4991-bbcf-bf74f26deaef)
 
 
 
