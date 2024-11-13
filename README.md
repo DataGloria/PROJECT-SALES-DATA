@@ -32,8 +32,10 @@ This project involves analyzing the sales performance of a retail store to uncov
 ---
 
 ## Project Structure
+This project is structured into 3 different processes as seen below.
 
-1. **Excel Analysis**: [View Here](https://docs.google.com/spreadsheets/d/1yjZ7dtWELhHT4SZxeZ3UnsTnEFzvt6F2/edit?usp=sharing&ouid=101772182884448801883&rtpof=true&sd=true)
+## **Excel Analysis**: [View Here](https://docs.google.com/spreadsheets/d/1yjZ7dtWELhHT4SZxeZ3UnsTnEFzvt6F2/edit?usp=sharing&ouid=101772182884448801883&rtpof=true&sd=true)
+   -**Data Cleaning**: Cleaned data from duplicates, blanks and errors
    - **Initial Exploration**: Explored sales data using pivot tables for summarizing;
       - total sales by product,
       - total sales by region,
@@ -47,7 +49,7 @@ This project involves analyzing the sales performance of a retail store to uncov
      - Total revenue per region
        
 
-2. **SQL Analysis**: [View Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=sharing)
+## **SQL Analysis**: [View Here](https://drive.google.com/file/d/1y1eAeoNXLUbWVF76y5wo9XMWiC8oj1UO/view?usp=sharing)
    - **Dataset Loading**: Loaded the dataset into SQL Server for deeper analysis anad cleaned the data
    - **Key Queries**:
      - **Total Sales by Product Category**:
@@ -123,9 +125,9 @@ This project involves analyzing the sales performance of a retail store to uncov
                FROM [dbo].[Sales data Cp]
                 WHERE OrderDate >= DATEADD(QUARTER, -1, GETDATE())
        ```
-   
+   ---
 
-3. **Power BI Dashboard**:[View Here](https://drive.google.com/file/d/1Ja7vrT2m-xvI-uMTwzHCdA65wqOHLY0s/view?usp=sharing)
+## **Power BI Dashboard**:[View Here](https://drive.google.com/file/d/1Ja7vrT2m-xvI-uMTwzHCdA65wqOHLY0s/view?usp=sharing)
    - **Overview**: I Created an interactive dashboard summarizing key insights which is guaranteed to help the company see patterns and trends that will improve key decision making and overall, help the business identify areas, products to improve on, incease marketability or highlight.
       - transaformed the data by chnaging the data types as related to the values or texts in the columns
       - Performed a data audit to check if the data quality was topnotch
